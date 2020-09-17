@@ -202,5 +202,14 @@
         "Well, Who Doesn't"
       ]
     }
+  ],
+  "projects": [
+    {
+      "name": "NAV-Chain",
+      "description": "NAV is a Blockchain based News Aggregation and verification project aimed to verify the significance and credibility of news and decentralize the media group (https://github.com/rava-dosa/NAV-Chain/)",
+      "highlights":[
+        "Co-Wrote a white paper on how a distributed news can work"
+      ]
+    }
   ]
 }
