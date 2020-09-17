@@ -1,0 +1,206 @@
+{
+  "basics": {
+    "name": "Apoorva Kumar",
+    "label": "Engineer",
+    "picture": "",
+    "email": "apoorvakumar169@gmail.com",
+    "phone": "",
+    "website": "http://rava-dosa.github.io",
+    "summary": "I have graduated from Computer Science and Engineering. I have done an array of project in different areas of Computer Science and Information technology. I have always tried to explore as much as possible by pursuing as many possibilities. But this doesn’t mean that quality of work has suffered anywhere or I have not seen depth. I have my own standard for work which I deliver in requisite time, which I promise is high. I have seen depth of topics like Image Processing as well. All mentioned project and few upcoming indicate one thing, I learn and implement really fast but forget fast as well.",
+    "location": {
+      "address": "Remote",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "rava_dosa",
+        "url": "https://twitter.com/intent/follow?screen_name=rava_dosa"
+      },
+      {
+        "network": "Github",
+        "username": "rava-dosa",
+        "url": "https://github.com/rava-dosa"
+      },
+      {
+        "network": "Linkedin",
+        "username": "apoorva-kumar",
+        "url": "https://linkedin.com/in/apoorva-kumar/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Web Development, Data Engineering & DevOps",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "I am well versed with lots of nuances that plagues a scalable system and equipped with how to deal with them.",
+      "highlights": [
+        "Created Javascript SDK for a FinTech Startup from Scratch.",
+        "Worked on Spark to extract data from amazon Redshift, process it and save parquet file to S3 (Used Java api).",
+        "Wrote a ssl certificate management tool for cluster of servers, frontend in React and Backend in SpringBoot.",
+        "Automated Infrastructure Deployment using Terraform.",
+        "Wrote an algorithmic trading platform using zerodha api in Django.",
+        "Maintain a Blog in jekyll on github pages. (https://rava-dosa.github.io)",
+        "Have written lots of Scrapers, mostly using Selenium and Beautiful Soup"
+      ]
+    },
+    {
+      "company": "Product Security",
+      "summary": "As a 2 month 20 day internship at Sony I did lot of work and learnt a lot while doing that. Starting from scratch with no security background",
+      "startDate": "2018-05-02",
+      "endDate": "2018-07-20",
+      "highlights": [
+        "Creating threat model for hardware and software",
+        "Side Channel investigation and exploit development",
+        "Automating products using HDMI-CEC",
+        "Created a Dependency Threat Recon Tool"
+      ]
+    },
+    {
+      "company": "Robotics",
+      "summary": "As a fresher spent my entire summer in college research group, Autonomous Ground Vehicle as planning and computer visionresearcher. I worked mostly in planning team investigating different methods.",
+      "startDate": "2017-02-01",
+      "endDate": "2017-07-31",
+      "highlights":[
+        "Implemented Hybrid-Astar for Non-Holonomic bot. I implemented Dubin’s path for getting better heuristics than Euclidean Distance.",
+        "Worked on numerous slam such as RGBD slam, EKF, RTABMAP, OCTOMAP during summers. I didn’t implemented these slams, I tested them.",
+        "Learnt other algorithm such as calmen filter and used Velodyne Lidar, 3d Camera(Kinect)."
+      ]
+    },
+    {
+      "company": "Image Processing",
+      "startDate": "2016-12-10",
+      "endDate": "2017-12-31",
+      "summary": "I had worked more with mathematical image processing rather than data based algorithm as used in Computer Vision",
+      "highlights": [
+        "Automatic Goal Counter: Devised an algorithm to count no of goals in a robo-soccer match. Not really a project but more of a script",
+        "Fill Bucket tool: A script to fill different shapes with color. It was inspired from MS-Paint fill bucket tool",
+        "Sediment Detection in urine: Tried(Failed) to implement level set method with mumford shah model based on Xin-Jiang, Shengdong-Nie paper. The basic problem in sediment detection is it’s similarity of color wrt it’s background,which makes the sediment difficult to get segmented.(https://rava-dosa.github.io/2020-04-09-Image-Processing/)",
+        "Notes2ppt: Converts printed notes to ppt."
+      ]
+    },
+    {
+      "company": "Computer organization and Architecture",
+      "summary": "Part of Coursework",
+      "startDate": "2019-06-01",
+      "endDate": "2019-11-25",
+      "highlights": [
+        "Implemented a 4 bit processor on an fpga using Verilog with mips instruction set.",
+        "I am able to programme FPGA’s for other algorithm and usage as well."
+      ]
+    },
+    {
+      "company": "Linux Kernel",
+      "summary": "I have not done any real full time project,but whenever I got some opportunity which I have tinkered",
+      "startDate": "2018-07-20",
+      "endDate": "2019-07-20",
+      "highlights": [
+        "Writing basic loadable kernel module",
+        "Kernel Object hooking of character Device",
+        "Adding new System calls",
+        "Interrupt handling and Process scheduler",
+        "Everything about cache and how DRAM interacts with it"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Kharagpur Open Source Society",
+      "position": "Executive",
+      "website": "https://kossiitkgp.org/",
+      "startDate": "2018-03-01",
+      "endDate": "2019-02-28",
+      "summary": "Spreading Open Source Ethos",
+      "highlights": [
+        "Conducted Ubuntu install fest for fresher.",
+        "Conducted Open-Source Summit in KTJ which is Asia’s Largest Techno-Management fest.",
+        "Conducted Intro to Web Application Security Workshop. Publicised it as Hacking Workshop. Well the attendance was humongous."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Indian Institute of Technology Kharagpur",
+      "area": "Computer Science and Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2016-06-01",
+      "endDate": "2020-06-01",
+      "gpa": "7.46",
+      "courses": [
+        "CS60010 - DEEP LEARNING",
+        "CS60059 - OBJECT ORIENTED SYSTEMS",
+        "CS60038 - ADVANCES IN OPERATING SYSTEMS DESIGN",
+        "CS60075 - NATURAL LANGUAGE PROCESSING",
+        "CS60077 - REINFORCEMENT LEARNING",
+        "CS43002 - DATABASE MANAGEMENT SYSTEMS",
+        "CS31006 - COMPUTER NETWORKS",
+        "CS30002 - OPERATING SYSTEMS",
+        "CS60023 - APPROXIMATION AND ONLINE ALGORITHMS"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "Backend",
+        "Frontend",
+        "Bigdata",
+        "DB",
+        "Postgres",
+        "Aws",
+        "Scalability"
+      ]
+    },
+    {
+      "name": "Python, Golang",
+      "level": "Intermediate",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Android Development",
+      "level": "Intermediate",
+      "keywords":[
+        
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Limited Working Proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Reading Books",
+      "keywords": [
+        "Psychology",
+        "Behavioural Economics"
+      ]
+    },
+    {
+      "name": "Movies/TV-Series",
+      "keywords": [
+        "Silicon Valley",
+        "Well, Who Doesn't"
+      ]
+    }
+  ]
+}
